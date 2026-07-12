@@ -144,4 +144,4 @@ internsafe/
 
 **Areeba Makhmoor**
 BCA 5th Semester, GGSIPU
-[LinkedIn](https://linkedin.com/in/areebamakhmoor) · [GitHub](https://github.com/areebamakhmoor) · [Portfolio](https://areebamakhmoor.github.io/aurora-trails)
+[LinkedIn](https://linkedin.com/in/areebamakhmoor) · [GitHub](https://github.com/areebamakhmoor) 
