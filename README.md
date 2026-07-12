@@ -132,11 +132,21 @@ internsafe/
 
 ---
 
+## 🚀 Future Improvements
+
+With more development time, I would:
+
+- Integrate official MCA, LinkedIn, WHOIS, and GST APIs for higher accuracy.
+- Replace the rule-based Trust Score with an AI/ML-based scoring model.
+- Improve Offer Letter Analyzer using OCR and LLMs for deeper fraud detection.
+- Add user authentication and personalized dashboards.
+- Build a verified community reporting and moderation system.
+- Deploy the application with Redis caching, Docker, CI/CD, and monitoring for production readiness.
+
 ## AI Collaboration
 
 - **Google Gemini** — powers offer letter analysis, red flag extraction, and missing element detection
 - **Claude (Anthropic)** — used during architecture planning and code review
-- All AI outputs are clearly labelled in the UI
 
 ## Author
 
