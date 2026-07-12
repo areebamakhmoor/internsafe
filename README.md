@@ -137,3 +137,10 @@ internsafe/
 - **Google Gemini** — powers offer letter analysis, red flag extraction, and missing element detection
 - **Claude (Anthropic)** — used during architecture planning and code review
 - All AI outputs are clearly labelled in the UI
+
+## Author
+
+**Areeba Makhmoor**
+BCA 5th Semester, GGSIPU
+[LinkedIn](https://linkedin.com/in/areebamakhmoor) · [GitHub](https://github.com/areebamakhmoor) 
+
