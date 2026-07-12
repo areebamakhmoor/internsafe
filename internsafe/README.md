@@ -4,7 +4,6 @@
 
 InternSafe is an AI-powered internship and job verification platform that gives every company a real-time Trust Score — built from multiple independent signals, not just a blacklist.
 
-🔗 **Live Demo:** [internsafe.vercel.app](https://internsafe.vercel.app)
 
 ---
 
